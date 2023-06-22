@@ -1,0 +1,11 @@
+Id,titre,description,service,date
+1, Problème d'imprimante, L'imprimante ne fonctionne pas, Service informatique, 2021-05-01
+2, Erreur de connexion, Impossible de se connecter au réseau, Service informatique, 2021-06-22
+3, Panne d'électricité, Plusieurs bureaux sont sans électricité, Service technique, 2022-02-10
+4, Fuite d'eau, Une fuite d'eau a été détectée dans la salle de bains, Service technique, 2022-07-20
+5, Bug logiciel, Le logiciel se bloque lors de l'utilisation, Service informatique, 2021-09-05
+6, Problème de climatisation, La climatisation ne refroidit pas suffisamment, Service technique, 2022-08-12
+7, Incident de sécurité, Une tentative d'intrusion a été détectée, Service informatique, 2022-11-30
+8, Problème de réseau, Des coupures de réseau intermittentes, Service informatique, 2023-12-18
+9, Incident de livraison, Un colis est arrivé endommagé, Service logistique, 2022-04-03
+10, Problème de téléphone, Les lignes téléphoniques sont en panne, Service technique, 2022-06-25
